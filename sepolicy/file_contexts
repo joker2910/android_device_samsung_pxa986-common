@@ -1,0 +1,2 @@
+# GPU device
+/dev/graphics/galcore       u:object_r:gpu_device:s0
